@@ -4,10 +4,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marceloprates/urban-sketches/blob/master/urban-sketches.ipynb)
 
-![](CB-BF-F.png)
+![](prints/CB-BF-F.png)
 
-![](Centro-Porto-Alegre.png)
+![](prints/Centro-Porto-Alegre.png)
 
-![](Cidade-Baixa-Porto-Alegre.png)
+![](prints/Cidade-Baixa-Porto-Alegre.png)
 
-![](Bom-Fim-Porto-Alegre.png)
+![](prints/Bom-Fim-Porto-Alegre.png)
